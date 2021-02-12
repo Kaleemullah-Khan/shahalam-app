@@ -7,7 +7,7 @@ const LandingPage = () => {
         <div>
             <Card>
            <Row>
-               <Col md={5}>
+               <Col md={4}>
                <Menus />
                </Col>
            </Row>
