@@ -16,8 +16,9 @@ const Eee = () => {
     <ListGroup.Item>
     <Card.Link href="#">Workshop On Mi Power System </Card.Link>
     </ListGroup.Item>
+    <Card.Header style={{background:'lightblue',fontWeight:'bold'}}>2017-18</Card.Header>
     <ListGroup.Item>
-    <Card.Link href="#">RD in Production and Industrial Application</Card.Link>
+    <Card.Link href="#">Reactive Power Management</Card.Link>
     </ListGroup.Item>
     <ListGroup.Item>
     <Card.Link href="#">TP On Introduction To HVAC System</Card.Link>
