@@ -16,9 +16,18 @@ const Mechanical = () => {
     <ListGroup.Item>
     <Card.Link href="#">HVAC Crash Course</Card.Link>
     </ListGroup.Item>
+    <ListGroup.Item>
+    <Card.Link href="#">RD in Production and Industrial Application</Card.Link>
+    </ListGroup.Item>
+    <ListGroup.Item>
+    <Card.Link href="#">TP On Introduction To HVAC System</Card.Link>
+    </ListGroup.Item>
+    <ListGroup.Item>
+    <Card.Link href="#">Technical Talk On Thermal Insulation</Card.Link>
+    </ListGroup.Item>
     <Card.Header style={{background:'lightblue',fontWeight:'bold'}}>2017-18</Card.Header>
     <ListGroup.Item>
-    <Card.Link href="#">Workshop On Recent Trends</Card.Link>
+    <Card.Link href="#">WS On 'Advances In I.C Engines'</Card.Link>
     </ListGroup.Item>
     </ListGroup>
 </Card>
