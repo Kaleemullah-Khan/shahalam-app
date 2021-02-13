@@ -18,9 +18,9 @@ const Ece = () => {
     </ListGroup.Item>
     <Card.Header style={{background:'lightblue',fontWeight:'bold'}}>2015-16</Card.Header>
     <ListGroup.Item>
-    <Card.Link href="#">Workshop On Android Development</Card.Link>
+    <Card.Link href="#">TT On 'IOT In Robotics'</Card.Link>
     </ListGroup.Item>
-    <Card.Header style={{background:'lightblue',fontWeight:'bold'}}>2017-18</Card.Header>
+    <Card.Header style={{background:'lightblue',fontWeight:'bold'}}>2016-17</Card.Header>
     <ListGroup.Item>
     <Card.Link href="#">Workshop On Linux</Card.Link>
     </ListGroup.Item>
