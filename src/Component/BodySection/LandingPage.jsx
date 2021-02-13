@@ -11,7 +11,12 @@ import { Col, Row } from 'react-bootstrap';
 const LandingPage = () => {
     return (
         <div>
-           
+           <Menus />
+               <Civil />
+               <Cse />
+               <Mechanical />
+               <Ece />
+               <Eee />
 
         </div>
     );
