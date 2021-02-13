@@ -45,7 +45,7 @@ const Menus = () => {
   </ListGroup>
 </Card>
 </Col>
-{/* <Col lg="8">
+<Col lg="8">
 <Carousel>
   <Carousel.Item>
     <img
@@ -80,7 +80,7 @@ const Menus = () => {
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
-</Col> */}
+</Col>
 </Row>
         </div>
     );
