@@ -1,4 +1,4 @@
-#root > div > div > div > div > div.col-lg-8 > div > div{
+.col-lg-8 > div > div{
     box-shadow: 0 0 10PX;
     height: 650px;
     width: 1200px;
@@ -6,6 +6,6 @@
 #root > div > div > div > div{
     margin: 20px;
 }
-#root > div > div > div > div > div.col-lg-2{
+.col-lg-2{
     box-shadow: 0 0 10PX;
 }
