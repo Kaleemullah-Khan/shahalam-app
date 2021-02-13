@@ -1,5 +1,5 @@
 import React from 'react';
-
+import {ListGroup, Card, Row,Col} from 'react-bootstrap'
 const Cse = () => {
     return (
         <div>
@@ -16,9 +16,19 @@ const Cse = () => {
     <ListGroup.Item>
     <Card.Link href="#">Workshop On Adobe Device Days</Card.Link>
     </ListGroup.Item>
+    <Card.Header style={{background:'lightblue',fontWeight:'bold'}}>2016-17</Card.Header>
+    <ListGroup.Item>
+    <Card.Link href="#">Workshop On Android Development</Card.Link>
+    </ListGroup.Item>
     <Card.Header style={{background:'lightblue',fontWeight:'bold'}}>2017-18</Card.Header>
     <ListGroup.Item>
-    <Card.Link href="#">Workshop On Recent Trends</Card.Link>
+    <Card.Link href="#">Workshop On Linux</Card.Link>
+    </ListGroup.Item>
+    <ListGroup.Item>
+    <Card.Link href="#">Guest Lecture On ADS and CN</Card.Link>
+    </ListGroup.Item>
+    <ListGroup.Item>
+    <Card.Link href="#">Guest Lecture On DBMS</Card.Link>
     </ListGroup.Item>
     </ListGroup>
 </Card>
