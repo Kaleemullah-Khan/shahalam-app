@@ -5,17 +5,20 @@ import Mechanical from'../LeftBodySection/MechanicalEvents/Mechanical'
 import Ece from '../LeftBodySection/EceEvents/Ece'
 import Eee from '../LeftBodySection/EeeEvents/Eee'
 import Cse from '../LeftBodySection/CseEvents/Cse'
+import { Col, Row } from 'react-bootstrap';
 
 
 const LandingPage = () => {
     return (
         <div>
-               <Menus />
-               <Civil />
-               <Cse />
-               <Mechanical />
-               <Ece />
-               <Eee />
+              <Row>
+                  <Col>
+                  <Menus />
+                  </Col>
+                  <Col>
+                  
+                  </Col>
+              </Row>
 
         </div>
     );
