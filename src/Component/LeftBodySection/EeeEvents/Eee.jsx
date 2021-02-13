@@ -20,16 +20,6 @@ const Eee = () => {
     <ListGroup.Item>
     <Card.Link href="#">Reactive Power Management</Card.Link>
     </ListGroup.Item>
-    <ListGroup.Item>
-    <Card.Link href="#">TP On Introduction To HVAC System</Card.Link>
-    </ListGroup.Item>
-    <ListGroup.Item>
-    <Card.Link href="#">Technical Talk On Thermal Insulation</Card.Link>
-    </ListGroup.Item>
-    <Card.Header style={{background:'lightblue',fontWeight:'bold'}}>2017-18</Card.Header>
-    <ListGroup.Item>
-    <Card.Link href="#">WS On 'Advances In I.C Engines'</Card.Link>
-    </ListGroup.Item>
     </ListGroup>
 </Card>
 </Col>
