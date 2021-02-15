@@ -1,5 +1,5 @@
 import React from 'react';
-import {ListGroup, Card, Row,Col} from 'react-bootstrap'
+import {ListGroup, Card, Row,Col,Carousel} from 'react-bootstrap'
 const Ece = () => {
     return (
         <div>
@@ -31,6 +31,19 @@ const Ece = () => {
     
     </ListGroup>
 </Card>
+</Col>
+<Col lg="8">
+<Carousel>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="Assets/ece.jpg"
+      alt="First slide"
+    />
+   
+  </Carousel.Item>
+  </Carousel>
+
 </Col>
 </Row>
         </div>

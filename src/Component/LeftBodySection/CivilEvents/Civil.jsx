@@ -1,5 +1,5 @@
 import React from 'react';
-import {ListGroup, Card, Row,Col} from 'react-bootstrap'
+import {ListGroup, Card, Row,Col,Carousel } from 'react-bootstrap'
 const Civil = () => {
     return (
         <div>
@@ -22,8 +22,17 @@ const Civil = () => {
     </ListGroup>
 </Card>
 </Col>
-<Col>
-
+<Col lg="8">
+<Carousel>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="Assets/civil.png"
+      alt="First slide"
+    />
+   
+  </Carousel.Item>
+  </Carousel>
 
 </Col>
 </Row>
