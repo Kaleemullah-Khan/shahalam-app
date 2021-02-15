@@ -4,7 +4,7 @@ const ActivityEvents = () => {
     return (
         <div>
               <Button variant="primary" href="pdf/extension activities.pdf">
-    Block level button
+    Extension Activity Events
   </Button>
         </div>
     );

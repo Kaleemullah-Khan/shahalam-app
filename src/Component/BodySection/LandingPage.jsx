@@ -5,6 +5,7 @@ import Mechanical from'../LeftBodySection/MechanicalEvents/Mechanical'
 import Ece from '../LeftBodySection/EceEvents/Ece'
 import Eee from '../LeftBodySection/EeeEvents/Eee'
 import Cse from '../LeftBodySection/CseEvents/Cse'
+import ActivityEvents from '../LeftBodySection/ExtentionActivityEvents/ActivityEvents'
 import { Col, Row } from 'react-bootstrap';
 
 
@@ -17,6 +18,7 @@ const LandingPage = () => {
                <Mechanical />
                <Ece />
                <Eee />
+               <ActivityEvents />
 
         </div>
     );
