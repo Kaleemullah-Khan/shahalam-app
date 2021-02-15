@@ -71,9 +71,7 @@ const Menus = () => {
       alt="Third slide"
     />
 
-    <Carousel.Caption>
-      
-    </Carousel.Caption>
+   
   </Carousel.Item>
 </Carousel>
 </Col>
