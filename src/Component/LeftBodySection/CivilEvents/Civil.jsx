@@ -22,6 +22,10 @@ const Civil = () => {
     </ListGroup>
 </Card>
 </Col>
+<Col>
+
+
+</Col>
 </Row>
         </div>
     );
