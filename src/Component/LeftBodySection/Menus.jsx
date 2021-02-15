@@ -53,9 +53,7 @@ const Menus = () => {
       src="Assets/img4.jpg"
       alt="First slide"
     />
-    <Carousel.Caption>
    
-    </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
     <img
@@ -64,9 +62,7 @@ const Menus = () => {
       alt="Third slide"
     />
 
-    <Carousel.Caption>
-      
-    </Carousel.Caption>
+  
   </Carousel.Item>
   <Carousel.Item>
     <img
